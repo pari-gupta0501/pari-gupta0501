@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/pari-gupta0501/pari-gupta0501/blob/main/github-banner.mp4)
 <h1 align="center">Hi 👋, I'm Pari Gupta</h1>
 <h3 align="center">A Dedicated Software Developer and Tech Organizer from India.</h3>
 
