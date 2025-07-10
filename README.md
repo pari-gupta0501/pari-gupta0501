@@ -1,4 +1,7 @@
-![logo](https://github.com/pari-gupta0501/pari-gupta0501/raw/refs/heads/main/github-banner.mp4)
+
+![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/fd2281d6-3156-4c6d-ae72-a1850c8cf4c6)
+
+
 <h1 align="center">Hi 👋, I'm Pari Gupta</h1>
 <h3 align="center">A Dedicated Software Developer and Tech Organizer from India.</h3>
 
