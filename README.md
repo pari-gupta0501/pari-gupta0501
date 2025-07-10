@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Pari Gupta</h1>
 <h3 align="center">A Dedicated Software Developer and Tech Organizer from India.</h3>
 
