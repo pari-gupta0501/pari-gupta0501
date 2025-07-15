@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pari-gupta0501&label=Profile%20views&color=0e75b6&style=flat" alt="pari-gupta0501" /> </p>
 
-- 👨‍💻 Get More to know About Me  [My Portfolio Link](https://pari-portfolio.lovable.app/)
+- 👨‍💻 Get More to know [About Me](https://pari-portfolio.lovable.app/)
 
 - 📝 Contact Form [Link](https://pari-gupta0501.github.io/connect-site/feedback.html)
 
